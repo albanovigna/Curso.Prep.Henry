@@ -1,0 +1,4 @@
+for: es una instruccion que damos cuando queremos repetir algo una cantidad de veces que ya conocemos.
+&&: es un simbolo que se usa cuando queremos comparar dos acciones y ambas tienen que ser verdad para que se ejecute una determinada parte del codigo. Por ejemplo numero>2 && numero<5.
+||: similar a && pero ejecutara el codigo si una sola de las condiciones es true. Por ejemplo if(numero>10 || numero===5) se ejecutara cuando cualquiera de las dos condiciones sea verdadera.
+!: es un simbolo que se usa para negar algo. Se pone siempre adelante. Por ejemplo "===" significa exactamente igual y "!==" significa exactamente distinto.
