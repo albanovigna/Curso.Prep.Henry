@@ -1,0 +1,5 @@
+Variables: Son datos que se pueden usar y cambiar cuando se desee.
+Strings: Son conjuntos de simbolos que pueden ser reconocidos en un programa. Se escriben siempre entre comillas, ya sean simples o dobles.
+Funciones: Son bloques de codigo que realizan una sola tarea y devuelven un unico elemento que puede ser cualquiera ya sean objetos, arrays, etc.
+Declaraciones: Sirven para controlar, en el caso del if, si algo es verdadero o falso. Dependiendo cual sea el resultado se ejecutará un determinado bloque de codigo.
+Valores Booleanos: Son un tipo de valor que pueden ser true o false. Esto sirve por ejemplo para controlar un if y hacer una determinada accion segun la expresion a evaluar es true o false.
