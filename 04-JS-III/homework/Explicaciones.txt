@@ -1,0 +1,1 @@
+Arrays: es un conjunto de elementos como por ejemplo strings, numeros, objetos, etc a los cuales a cada uno le corresponde un numero para obtener la informacion de dicho elemento. Un array se declara poniendo corchetes (var array = []) y el primero elemento comienza con el 0. Por ejemplo para acceder al primer elemento de un array llamado arreglo hay que escribir arreglo[0]
