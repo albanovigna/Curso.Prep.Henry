@@ -1,0 +1,5 @@
+Objetos: es un elemento que tiene unas determinadas caracteristicas(atributos o propiedades) y comportamientos(metodos) unicos. Se declaran con llaves ({})
+Propiedades: son los datos que posee cada objeto.
+Metodos: son las funciones que puede realizar el objeto. 
+For in: es un bucle for que se utiliza para recorrer un objeto. Se declara una variable junto con la palabra clave in y el nombre del objeto. Por ejemplo for(let clave in objeto).
+Notacion de punto vs corchete: la notacion de punto se diferencia en que si o si se debe escribir una palabra clave declarada en el objeto, en cambio en la de corchetes se usa una string colocando la clave entre comillas.
