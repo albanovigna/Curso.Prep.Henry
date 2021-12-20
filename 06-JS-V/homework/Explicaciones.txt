@@ -1,0 +1,2 @@
+prototype: son metodos que se declaran en la clase y funcionan para todos los objetos pertenecientes a esa clase. Esto nos ahorra mucha memoria porque solo se declara una vez.
+constructores: un constructor es una clase declarada en JavaScript. Puede heredar metodos y propiedades de otro constructor(significa que puede usar esos metodos y propiedades).
